@@ -10,3 +10,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JouNuff00&show_icons=true&theme=radical)](https://github.com/JouNuff00/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JouNuff00&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JouNuff00/github-readme-stats)
