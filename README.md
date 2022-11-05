@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @JouNuff00
-- 👀 I’m interested in programing and playing league.
-- 🌱 I’m currently learning C, Nodejs, Oracle Sql.
-- 📫 How to reach me ...@jounuff 
-- 
--
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JouNuff00&show_icons=true&theme=radical)](https://github.com/JouNuff00/github-readme-stats)
